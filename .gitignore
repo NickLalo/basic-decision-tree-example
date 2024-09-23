@@ -1,0 +1,5 @@
+/__pycache__
+
+# custom convention for local quick testing files
+zz*
+/zz*
